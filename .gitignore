@@ -21,3 +21,5 @@ public/
 db.json
 themes/
 log/
+
+*.json
