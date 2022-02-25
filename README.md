@@ -11,3 +11,7 @@
 gitbook install
 gitbook serve
 ```
+
+# 问题
+* `gitbook install`安装插件失败, 出现：`Error: Missing required argument #1`
+  > 建议尝试直接使用 npm install gitbook-plugin-* 安装插件, 可参考[Gitbook常见问题](https://snowdreams1006.github.io/myGitbook/issue/)
